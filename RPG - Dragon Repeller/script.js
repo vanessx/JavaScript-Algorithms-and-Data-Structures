@@ -61,7 +61,7 @@ const locations = [
   {
     name: "fight",
     "button text": ["Attack", "Dodge", "Run"],
-    "button functions": [attack, dodge, goTown],
+    "button functions": [attack, dodge, easterEgg],
     text: "You are fighting a monster."
   },
   {
